@@ -1,8 +1,0 @@
-/home/vmdjavem/.vscode-oss/extensions/ms-vscode.cpptools-1.25.0/bin/cpptools: /home/vmdjavem/.vscode-oss/extensions/ms-vscode.cpptools-1.25.0/bin/cpptools: no se puede ejecutar el fichero binario
-[Error - 2:55:18 p.m.] Server initialization failed.
-  Message: Pending response rejected since connection got disposed
-  Code: -32097 
-[Error - 2:55:18 p.m.] The language server crashed. Restarting...
-[Error - 2:55:18 p.m.] cpptools client: couldn't create connection to server.
-  Message: Pending response rejected since connection got disposed
-  Code: -32097 

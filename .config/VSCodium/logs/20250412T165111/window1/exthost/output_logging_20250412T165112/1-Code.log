@@ -1,8 +1,0 @@
-[Running] /usr/bin/env bash "/home/vmdjavem/pipes.sh/pipes.sh"
-tput: No value for $TERM and no -T specified
-tput: No value for $TERM and no -T specified
-tput: No value for $TERM and no -T specified
-stty: 'entrada estándar': Función ioctl no apropiada para el dispositivo
-
-[Done] exited with code=0 in 0.013 seconds
-

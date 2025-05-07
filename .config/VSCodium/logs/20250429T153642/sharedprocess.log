@@ -1,7 +1,0 @@
-2025-04-29 15:36:43.962 [info] Marked extension as removed jdinhlife.gruvbox-1.26.0-universal
-2025-04-29 15:36:43.964 [info] Deleted marked for removal extension from disk jdinhlife.gruvbox /home/vmdjavem/.vscode-oss/extensions/jdinhlife.gruvbox-1.26.0-universal
-2025-04-29 15:37:30.807 [info] Getting Manifest... rust-lang.rust-analyzer
-2025-04-29 15:37:32.275 [info] Installing extension: rust-lang.rust-analyzer {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/vmdjavem/.vscode-oss/extensions/extensions.json","path":"/home/vmdjavem/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.99.32846","date":"2025-04-28T14:55:26.901Z"}}
-2025-04-29 15:37:37.143 [info] Extracted extension to file:///home/vmdjavem/.vscode-oss/extensions/rust-lang.rust-analyzer-0.3.2441-linux-x64: rust-lang.rust-analyzer
-2025-04-29 15:37:37.148 [info] Renamed to /home/vmdjavem/.vscode-oss/extensions/rust-lang.rust-analyzer-0.3.2441-linux-x64
-2025-04-29 15:37:37.163 [info] Extension installed successfully: rust-lang.rust-analyzer vscode-userdata:/home/vmdjavem/.vscode-oss/extensions/extensions.json
