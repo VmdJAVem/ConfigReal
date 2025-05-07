@@ -1,0 +1,54 @@
+{
+  "8b6a0e1413744785a43c9f9f9547b4d6": {
+    "app_name": "8b6a0e1413744785a43c9f9f9547b4d6",
+    "base_urls": [
+      "https://cloudflare.epicgamescdn.com/Builds/Org/o-mcvmu82m6mwl5ja3he6e8mwwwsslx9/b65e5ed8fbe44d87af7cee5d1cd2cc57/default",
+      "https://epicgames-download1.akamaized.net/Builds/Org/o-mcvmu82m6mwl5ja3he6e8mwwwsslx9/b65e5ed8fbe44d87af7cee5d1cd2cc57/default",
+      "https://download.epicgames.com/Builds/Org/o-mcvmu82m6mwl5ja3he6e8mwwwsslx9/b65e5ed8fbe44d87af7cee5d1cd2cc57/default",
+      "https://fastly-download.epicgames.com/Builds/Org/o-mcvmu82m6mwl5ja3he6e8mwwwsslx9/b65e5ed8fbe44d87af7cee5d1cd2cc57/default"
+    ],
+    "can_run_offline": true,
+    "egl_guid": "",
+    "executable": "Metalstorm.exe",
+    "install_path": "/home/vmdjavem/Games/Heroic/Metalstorm",
+    "install_size": 12274432655,
+    "install_tags": [],
+    "is_dlc": false,
+    "launch_parameters": "",
+    "manifest_path": null,
+    "needs_verification": false,
+    "platform": "Windows",
+    "prereq_info": null,
+    "requires_ot": false,
+    "save_path": null,
+    "title": "Metalstorm",
+    "uninstaller": null,
+    "version": "aircombat_store_windows_b29b4d4f_2025-04-17_09-07"
+  },
+  "f8ef168f3522419caad27d82878e0329": {
+    "app_name": "f8ef168f3522419caad27d82878e0329",
+    "base_urls": [
+      "https://cloudflare.epicgamescdn.com/Builds/Org/o-bthbhn6wd7fzj73v5p4436ucn3k37u/62a250183ac841098734f409cbca597d/default",
+      "https://epicgames-download1.akamaized.net/Builds/Org/o-bthbhn6wd7fzj73v5p4436ucn3k37u/62a250183ac841098734f409cbca597d/default",
+      "https://download.epicgames.com/Builds/Org/o-bthbhn6wd7fzj73v5p4436ucn3k37u/62a250183ac841098734f409cbca597d/default",
+      "https://fastly-download.epicgames.com/Builds/Org/o-bthbhn6wd7fzj73v5p4436ucn3k37u/62a250183ac841098734f409cbca597d/default"
+    ],
+    "can_run_offline": true,
+    "egl_guid": "",
+    "executable": "Launcher.exe",
+    "install_path": "/home/vmdjavem/Games/Heroic/fallout",
+    "install_size": 2316956304,
+    "install_tags": [],
+    "is_dlc": false,
+    "launch_parameters": "",
+    "manifest_path": null,
+    "needs_verification": false,
+    "platform": "Windows",
+    "prereq_info": null,
+    "requires_ot": false,
+    "save_path": null,
+    "title": "Fallout: A Post Nuclear Role Playing Game",
+    "uninstaller": null,
+    "version": "1.3"
+  }
+}

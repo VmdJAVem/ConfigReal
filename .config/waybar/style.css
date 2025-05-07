@@ -1,0 +1,84 @@
+* {
+    border: none;
+    font-family: "FiraCode Nerd Font", sans-serif;
+    font-size: 14px;
+    min-height: 0;
+}
+
+window#waybar {
+    background: transparent;
+    color: #fbf1c7; /* Changed from #ffffff */
+}
+
+#waybar {
+    background: transparent;
+    border-bottom: none;
+}
+
+.modules-left,
+.modules-center,
+.modules-right {
+    background: transparent;
+    padding: 0 8px;
+    margin: 4px 2px;
+}
+
+#clock,
+#custom-pacman,
+#cpu,
+#memory,
+#network,
+#pulseaudio,
+#bluetooth,
+#custom-playerctl {
+    color: #fbf1c7; /* Changed from #ffffff */
+    padding: 0 12px;
+    margin: 0 2px;
+}
+
+/* Workspaces section */
+#hyprland-workspaces {
+    background: transparent;
+    padding: 0 5px;
+}
+
+/* Workspace numbers */
+#hyprland-workspaces button {
+    color: #fbf1c7; /* Changed from #ffffff */
+    padding: 0 8px;
+}
+
+/* Active/focused workspace */
+#hyprland-workspaces button.focused {
+    color: #fbf1c7; /* Changed from #ffffff */
+}
+
+/* Urgent workspace */
+#hyprland-workspaces button.urgent {
+    color: #fbf1c7; /* Changed from #ffffff */
+}
+
+.custom-arrow {
+    color: #fbf1c7; /* Changed from #ffffff */
+    font-size: 18px;
+    padding: 0;
+    margin: 0 -6px;
+}
+
+/* All text cream (#fbf1c7) */
+#custom-pacman,
+#cpu,
+#memory,
+#network,
+#pulseaudio,
+#bluetooth,
+#custom-playerctl,
+#clock {
+    color: #fbf1c7; /* Changed from #ffffff */
+}
+
+/* State colors */
+#network.disconnected { color: #fbf1c7; } /* Changed from #ffffff */
+#pulseaudio.muted { color: #fbf1c7; } /* Changed from #ffffff */
+#temperature.critical { color: #fbf1c7; } /* Changed from #ffffff */
+#battery.critical:not(.charging) { color: #fbf1c7; } /* Changed from #ffffff */

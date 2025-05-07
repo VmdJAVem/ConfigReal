@@ -1,0 +1,92 @@
+[Running] cd "/home/vmdjavem/Documents/the_c_programing_lenguaje/" && gcc HelloWorld.c -o HelloWorld && "/home/vmdjavem/Documents/the_c_programing_lenguaje/"HelloWorld
+Hello world
+I am a femboy now
+whoami
+[Done] exited with code=0 in 0.031 seconds
+
+[Running] cd "/home/vmdjavem/Documents/the_c_programing_lenguaje/" && gcc HelloWorld.c -o HelloWorld && "/home/vmdjavem/Documents/the_c_programing_lenguaje/"HelloWorld
+Hello world
+I am a femboy now
+whoami
+[Done] exited with code=0 in 0.031 seconds
+
+[Running] cd "/home/vmdjavem/Documents/the_c_programing_lenguaje/" && gcc HelloWorld.c -o HelloWorld && "/home/vmdjavem/Documents/the_c_programing_lenguaje/"HelloWorld
+Hello world
+I am a femboy now
+whoami
+[Done] exited with code=0 in 0.031 seconds
+
+[Running] cd "/home/vmdjavem/Documents/the_c_programing_lenguaje/" && gcc HelloWorld.c -o HelloWorld && "/home/vmdjavem/Documents/the_c_programing_lenguaje/"HelloWorld
+Hello world
+I am a femboy now
+whoami
+[Done] exited with code=0 in 0.03 seconds
+
+[Running] cd "/home/vmdjavem/Documents/the_c_programing_lenguaje/" && gcc HelloWorld.c -o HelloWorld && "/home/vmdjavem/Documents/the_c_programing_lenguaje/"HelloWorld
+Hello world
+I am a femboy now
+whoami
+[Done] exited with code=0 in 0.031 seconds
+
+[Running] cd "/home/vmdjavem/Documents/the_c_programing_lenguaje/" && gcc HelloWorld.c -o HelloWorld && "/home/vmdjavem/Documents/the_c_programing_lenguaje/"HelloWorld
+Hello world
+I am a femboy now
+whoami
+[Done] exited with code=0 in 0.031 seconds
+
+[Running] cd "/home/vmdjavem/Documents/the_c_programing_lenguaje/" && gcc HelloWorld.c -o HelloWorld && "/home/vmdjavem/Documents/the_c_programing_lenguaje/"HelloWorld
+HelloWorld.c: En la función ‘main’:
+HelloWorld.c:6:15: error: expected ‘;’ before ‘return’
+    6 |   printf("hi")
+      |               ^
+      |               ;
+    7 | 
+    8 |   return 0;
+      |   ~~~~~~       
+
+[Done] exited with code=1 in 0.014 seconds
+
+[Running] cd "/home/vmdjavem/Documents/the_c_programing_lenguaje/" && gcc HelloWorld.c -o HelloWorld && "/home/vmdjavem/Documents/the_c_programing_lenguaje/"HelloWorld
+Hello world
+I am a femboy now
+whoamihi
+[Done] exited with code=0 in 0.031 seconds
+
+[Running] cd "/home/vmdjavem/Documents/the_c_programing_lenguaje/" && gcc HelloWorld.c -o HelloWorld && "/home/vmdjavem/Documents/the_c_programing_lenguaje/"HelloWorld
+Hello world
+I am a femboy now
+whoamihi
+[Done] exited with code=0 in 0.031 seconds
+
+[Running] cd "/home/vmdjavem/Documents/the_c_programing_lenguaje/" && gcc HelloWorld.c -o HelloWorld && "/home/vmdjavem/Documents/the_c_programing_lenguaje/"HelloWorld
+Hello world
+I am a femboy now
+whoamihi
+[Done] exited with code=0 in 0.031 seconds
+
+[Running] cd "/home/vmdjavem/Documents/the_c_programing_lenguaje/" && gcc HelloWorld.c -o HelloWorld && "/home/vmdjavem/Documents/the_c_programing_lenguaje/"HelloWorld
+Hello world
+I am a femboy now
+whoami
+hi
+[Done] exited with code=0 in 0.032 seconds
+
+[Running] cd "/home/vmdjavem/Documents/the_c_programing_lenguaje/" && gcc HelloWorld.c -o HelloWorld && "/home/vmdjavem/Documents/the_c_programing_lenguaje/"HelloWorld
+Hello world
+I am a femboy now
+whoami
+hi
+[Done] exited with code=0 in 0.031 seconds
+
+[Running] cd "/home/vmdjavem/Documents/the_c_programing_lenguaje/" && gcc HelloWorld.c -o HelloWorld && "/home/vmdjavem/Documents/the_c_programing_lenguaje/"HelloWorld
+Hello world
+I am a femboy now
+hi	 whoami	 fuck	
+[Done] exited with code=0 in 0.031 seconds
+
+[Running] cd "/home/vmdjavem/Documents/the_c_programing_lenguaje/" && gcc HelloWorld.c -o HelloWorld && "/home/vmdjavem/Documents/the_c_programing_lenguaje/"HelloWorld
+Hello world
+I am a femboy now
+hi	whoami	fuck	
+[Done] exited with code=0 in 0.03 seconds
+

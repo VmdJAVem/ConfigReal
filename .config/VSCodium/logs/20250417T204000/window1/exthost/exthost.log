@@ -1,0 +1,15 @@
+2025-04-17 20:40:01.874 [info] Extension host with pid 2468 started
+2025-04-17 20:40:01.874 [info] Skipping acquiring lock for /home/vmdjavem/.config/VSCodium/User/workspaceStorage/afb37a619d90bcfa854d4bce8003bb5f.
+2025-04-17 20:40:01.886 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-04-17 20:40:01.892 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-04-17 20:40:01.921 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-04-17 20:40:01.946 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-04-17 20:40:02.073 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-04-17 20:40:02.075 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-04-17 20:40:02.086 [info] Eager extensions activated
+2025-04-17 20:40:02.086 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-04-17 20:40:02.088 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-04-17 20:40:04.599 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2025-04-17 20:40:04.634 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2025-04-17 20:40:13.073 [info] Extension host terminating: renderer closed the MessagePort
+2025-04-17 20:40:13.077 [info] Extension host with pid 2468 exiting with code 0

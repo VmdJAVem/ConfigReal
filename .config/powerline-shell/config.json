@@ -1,0 +1,16 @@
+{
+  "segments": [
+    {
+      "type": "stdout",
+      "command": [
+        "echo",
+        "λ"
+      ]
+    }
+  ],
+  "mode": "flat",
+  "cwd": {
+    "mode": "plain"
+  },
+  "theme": "gruvbox"
+}
